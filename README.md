@@ -9,6 +9,7 @@
 
 1. The Sales Acceleration Formula: Using Data, Technology, and Inbound Selling to go from $0 to $100 Million by Mark Roberge
 2. Predictable Revenue: Turn Your Business Into A Sales Machine With The $100 Million Best Practices Of Salesforce.com by  Aaron Ross
+3.[ The Sales Development Playbook: Build Repeatable Pipeline and Accelerate Growth with Inside Sales by Trish Bertuzzi ] ( https://www.amazon.com/Sales-Development-Playbook-Repeatable-Accelerate-ebook/dp/B01AOG3N7Q/ )
 
 # Leadership
 
